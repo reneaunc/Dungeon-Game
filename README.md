@@ -1,2 +1,2 @@
 # HW1
-CS145 HW1 Dungeon Game
+CSCI145 HW1 Dungeon Game
